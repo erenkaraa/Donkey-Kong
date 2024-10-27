@@ -1,4 +1,4 @@
-![](Assets/Pictures/Donkey_Kong.png)
+![](Assets/Pictures/Donkey-Kong.png)
 
 # Donkey Kong
 
